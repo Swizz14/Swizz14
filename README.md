@@ -2,7 +2,7 @@
 - 👀 I’m interested in Roblox programing 
 - 🌱 I’m currently learning Lua
 - 💞️ I’m looking to collaborate on Roblox exploits 
-- 📫 How to reach me Swizz#2906
+- 📫 How to reach me Swizz#8557
 
 <!---
 Swizz14/Swizz14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
